@@ -1,4 +1,5 @@
-#SFT + LoRA
+#SFT + LoRA#
+
 Fine-Tuning Qwen2.5-0.5B untuk Bahasa Daerah Indonesia
 Fine-tuning model bahasa menggunakan Supervised Fine-Tuning (SFT) dan LoRA
 agar mampu merespons instruksi dalam bahasa daerah Indonesia.
